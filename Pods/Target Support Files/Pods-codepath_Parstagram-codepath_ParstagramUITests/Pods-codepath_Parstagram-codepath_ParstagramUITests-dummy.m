@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_codepath_Parstagram_codepath_ParstagramUITests : NSObject
+@end
+@implementation PodsDummy_Pods_codepath_Parstagram_codepath_ParstagramUITests
+@end
