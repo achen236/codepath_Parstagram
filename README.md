@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![screen-gif](./gif/codepath_Parstagram_part1.gif)
+![screen-gif](./gifs/codepath_Parstagram_part1.gif)
