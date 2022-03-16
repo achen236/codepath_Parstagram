@@ -9,6 +9,7 @@ target 'codepath_Parstagram' do
   # Add Parse pods and install
   pod 'Parse'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
   target 'codepath_ParstagramTests' do
     inherit! :search_paths
     # Pods for testing
